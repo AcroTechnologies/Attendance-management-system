@@ -1,8 +1,8 @@
-﻿git using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace Attendance_management_system.Controllers
 {
-    public class HomeController : Controller
+    public class HomeYuviController : Controller
     {
         public IActionResult Index()
         {
