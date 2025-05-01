@@ -2,7 +2,7 @@
 
 namespace Attendance_management_system.Controllers
 {
-    public class HomeYuviController : Controller
+    public class HomeController : Controller
     {
         public IActionResult Index()
         {
