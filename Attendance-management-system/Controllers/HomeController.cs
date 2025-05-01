@@ -7,7 +7,7 @@ namespace Attendance_management_system.Controllers
         public IActionResult Index()
         {
             return View();
-            //this is master
+            //this is yuvraj
         }
     }
 }
