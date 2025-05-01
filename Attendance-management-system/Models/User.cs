@@ -5,7 +5,7 @@
         public int Id { get; set; }
         //Hello Guys this is Paras Jain
 
-        public string UseryuvisankName { get; set; }
+        public int UserName { get; set; }
 
         public string UserEmail { get; set; }
 
