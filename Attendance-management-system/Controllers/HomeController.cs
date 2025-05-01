@@ -1,4 +1,4 @@
-﻿git using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace Attendance_management_system.Controllers
 {
